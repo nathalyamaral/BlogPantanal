@@ -1,0 +1,17 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/bootstrap.css": "/css/bootstrap.css",
+    "/css/bootstrap-grid.css": "/css/bootstrap-grid.css",
+    "/css/bootstrap-reboot.css": "/css/bootstrap-reboot.css",
+    "/css/style.css": "/css/style.css",
+    "/js/bootstrap.min.js": "/js/bootstrap.min.js",
+    "/js/jquery-3.2.1.min.js": "/js/jquery-3.2.1.min.js",
+    "/js/popper.min.js": "/js/popper.min.js",
+    "/js/owl.carousel.min.js": "/js/owl.carousel.min.js",
+    "/js/main.js": "/js/main.js",
+    "/js/js.js": "/js/js.js",
+    "/js/jquery.waypoints.min.js": "/js/jquery.waypoints.min.js",
+    "/js/jquery.stellar.min.js": "/js/jquery.stellar.min.js",
+    "/js/jquery-migrate-3.0.0.js": "/js/jquery-migrate-3.0.0.js"
+}
